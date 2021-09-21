@@ -13,5 +13,8 @@
 - ⚡ Fato legal sobre mim: Comecei a programar com apenas 8 anos de idade e desde então nunca mais parei. 
 - 📫 Contato: luizf.mlobrc@gmail.com
 
+![Luiz Mlo's Github Stats](https://github-readme-stats.vercel.app/api?username=luizmlo&count_private=true)
+
+
 ## Portfolio
 #### ⚠ WIP ⚠
