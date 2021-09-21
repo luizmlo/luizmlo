@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá Github! 👋
 
-<!--
-**luizmlo/luizmlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalhando com automação e ciência de dados
+- 🌱 Estudante de Ciência da Computação pela Unisul
+- 😎 Adepto fiel à filosofia Open Source
+- 💬 Apaixonado por Segurança da Informação
+  - Network Security & Infrastructure
+  - Web Application Vulnerabilty Analysis
+  - Reverse Engineering
+  - Pwn everyone, hack everything
 
-Here are some ideas to get you started:
+- ⚡ Fato legal sobre mim: Comecei a programar com apenas 8 anos de idade e desde então nunca mais parei. 
+- 📫 Contato: luizf.mlobrc@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+#### Desenvolvimento
