@@ -21,6 +21,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmlo&hide=html,jupyter%20notebook&theme=tokyonight&langs_count=3" />
 </a>
 
+<a href="https://github.com/luizmlo/ctf-writeups">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizmlo&repo=ctf-writeups&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/luizmlo/easylstm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizmlo&repo=easylstm&theme=tokyonight" />
+</a>
+
+
 ## Tecnologias e Ferramentas
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=6700cd)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6700cd)
