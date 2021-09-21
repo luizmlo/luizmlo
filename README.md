@@ -10,7 +10,7 @@
   - Reverse Engineering
   - Pwn everyone, hack everything
 
-- ⚡ Fato legal sobre mim: Comecei a programar com apenas 8 anos de idade e desde então nunca mais parei. 
+- ⚡ Fato legal sobre mim: Comecei a programar com apenas 10 anos de idade e desde então nunca mais parei. 
 - 📫 Contato: luizf.mlobrc@gmail.com
 
 ## Github Stats
