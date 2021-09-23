@@ -53,6 +53,7 @@
   - [Desenvolvimento](#Desenvolvimento)
     - [XYO Coin Bot](#xyocoin)
     - [Smart Tron](#smarttron)
+    - [EasyLSTM](#EasyLSTM)
   - [Segurança](#Segurança)
     - [CTF's](#ctfs)
     - [Unisul XSS Demo](#unisul)
@@ -78,6 +79,28 @@
    - #### O propósito do aplicativo é de ser revendido online como Infoproduto, então desenvolvi do zero um sistema de criação e validação de licenças totalmente na nuvem e com criptografia, impossível de ser fraudado ou crackeado, além de todo o código do programa ser obfuscado usando a ferramenta [Pyarmor](https://github.com/dashingsoft/pyarmor)
    ![Tela de Login](https://i.imgur.com/cl0nXR7.png)
    ![Analytics](https://i.imgur.com/fdb1i8m.png)
+
+ <a name="EasyLSTM"></a>
+  #
+  ### [EasyLSTM](https://github.com/luizmlo/easylstm)
+  - #### Esta é uma biblioteca em Python desenvolvida por mim para facilitar a criação e uso de Redes Neurais do tipo LSTM;
+  - #### A ideia por trás deste projeto veio durante a época em que eu estava estudando pesado Machine Learning, em específico a área de Deep Learning e Redes Neurais, com foco em aplicação em dados de mercado e ações;
+  - #### As redes LSTM podem ser extremamente precisas no processamento de dados do tipo Time Series, que podem ir desde Processamento de Linguagem Natural (NLP) até em prever movimentos futuros no preço do Bitcoin, por exemplo;
+  - #### A arquitetura de uma rede LSTM é bastante complexa e o formato dos dados de input precisam ser fornecidos como uma "Janela no tempo", o que pode causar uma grande dor de cabeça para quem está começando com Redes Neurais e Machine Learning em um todo;
+  - #### Com a minha biblioteca, é possível ir do import ao uso efetivo do Modelo em menos de 10 linhas de código;
+  - #### A descrição, instruções para uso e exemplos podem ser encontrados em Inglês [aqui](https://github.com/luizmlo/easylstm);
+  ## 7 Linhas de código, desde o import até a previsão de valores futuros
+  ```python
+  from easy_lstm import EasyLSTM
+  import pandas
+  dataset = pandas.read_csv('./path_to_dataset.csv')
+  dataset['y'] = dataset['feature'].shift(-1, axis=0)[:-1] #Turning a time series into a supervised learning problem
+  model, X_train, y_train, X_test, y_test = EasyLSTM(data=dataset, n_steps=4).do_magic()
+  model.fit(X_train, y_train, epochs=20)
+  predictions = model.predict(X_test)
+  ```
+  ![Demo](https://i.imgur.com/ollIvqY.png)
+  ![Estrutura de uma LSTM](https://www.monolitonimbus.com.br/wp-content/uploads/2018/04/LSTM-chain.png)
 
 <a name="Segurança"></a>
 ## Segurança
