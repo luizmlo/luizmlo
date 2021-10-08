@@ -1,6 +1,6 @@
 ## Olá Github! 👋
 
-- 🔭 Atualmente trabalhando como Freelancer nas áreas de Automação e Ciência de Dados
+- 🔭 Atualmente trabalhando com Automação e Ciência de Dados
 - 🌱 Estudante de Ciência da Computação pela Unisul
 - 😎 Adepto fiel à filosofia Open Source
 - 💬 Apaixonado por Segurança da Informação
