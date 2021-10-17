@@ -13,9 +13,9 @@ Tem como realçar bastante a importância do projeto nessa parte da apresentaç�
 
 # O que é/O que não é:
 Na definição do que o programa é, acho que falta bastante informação sobre o projeto, eu como cliente gostaria de ver pelo menos um pouco de informações técnicas sobre, como:
-Na prática, o que o contratar desse programa quer dizer? É monitoramento remoto?
-Como funciona, se é baseado em appliances como Firewalls/IDS físicos ou é software distribuido nos sistemas;
-Na definição acho que vale a pena falar sobre o suporte e os pacotes de horas que podem ser contratados;
+- Na prática, o que o contratar desse programa quer dizer? É monitoramento remoto?
+- Como funciona, se é baseado em appliances como Firewalls/IDS físicos ou é software distribuido nos sistemas;
+- Na definição acho que vale a pena falar sobre o suporte e os pacotes de horas que podem ser contratados;
 
 
 # Abrangência:
