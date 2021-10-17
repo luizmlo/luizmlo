@@ -3,7 +3,7 @@ Acho a ideia bem interessante e com um potencial enorme de não só capitalizaç
 
 
 # Contextualização:
-Tem como realçar bastante a importância do projeto nessa parte da apresentação, foi dado uma breve introdução ali do contexto mas achei que ficou bem vago, poderia ter mais informações sobre os riscos que a falta de um serviço de monitoramento/threat management podem trazer pra empresa e o porquê um serviço desse tipo ser tão importante.
+Tem como realçar bastante a importância do projeto nessa parte da apresentação, foi feita uma breve introdução ali do contexto mas achei que ficou bem vago, poderia ter mais informações sobre os riscos que a falta de um serviço de monitoramento/threat management podem trazer pra empresa e o porquê um serviço desse tipo ser tão importante.
 
 ### Gráficos, faltam gráficos na contextualização:
 - Quantas empresas sofrem ataques por ano;
