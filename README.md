@@ -1,6 +1,6 @@
 ## Olá Github! 👋
 
-- 🔭 Atualmente trabalhando com Automação e Ciência de Dados
+- 🔭 Atualmente trabalhando com Segurança Ofensiva na OSTEC Business Security
 - 🌱 Estudante de Ciência da Computação pela Unisul
 - 😎 Adepto fiel à filosofia Open Source
 - 💬 Apaixonado por Segurança da Informação
