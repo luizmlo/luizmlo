@@ -11,7 +11,7 @@
   - Pwn everyone, hack everything
 
 - ⚡ Fato legal sobre mim: Comecei a programar com apenas 10 anos de idade e desde então nunca mais parei. 
-- 📫 Contato: luizf.mlobrc@gmail.com
+- 📫 Contato: luiz.melo@ostec.com.br
 
 ## Github Stats
 <a href="https://github.com/luizmlo/luizmlo">
