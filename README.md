@@ -76,7 +76,7 @@
    - #### O Smart Tron é uma aplicação GUI multiplataforma (Windows, OSX e Linux) desenvolvida puramente com Python, usando ferramentas como Pandas, KivyMD, TA-Lib e Websockets;
    - #### O projeto é um robô automatizado de operações na corretora de valores [IqOption](https://iqoption.com/), onde são usadas diferentes técnicas para analisar os dados atuais de mercado e tentar prever seus possíveis movimentos no futuro, operando desde pares de moedas no mercado Forex, até em mercados de Ações, CFD's e Criptomoedas;
    - #### Este projeto teve também integração com banco de dados na Cloud, usando os Clusters do MongoDB, incluindo um dashboard em tempo real de Analytics;
-   - #### O propósito do aplicativo é de ser revendido online como Infoproduto, então desenvolvi do zero um sistema de criação e validação de licenças totalmente na nuvem e com criptografia, impossível de ser fraudado ou crackeado, além de todo o código do programa ser obfuscado usando a ferramenta [Pyarmor](https://github.com/dashingsoft/pyarmor)
+   - #### O propósito do aplicativo é de ser revendido online como Infoproduto, então desenvolvi do zero um sistema de criação e validação de licenças totalmente na nuvem e com criptografia, além de todo o código do programa ser obfuscado usando a ferramenta [Pyarmor](https://github.com/dashingsoft/pyarmor)
    ![Tela de Login](https://i.imgur.com/cl0nXR7.png)
    ![Analytics](https://i.imgur.com/fdb1i8m.png)
 
