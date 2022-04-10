@@ -1,6 +1,6 @@
 ## Olá Github! 👋
 
-- 🔭 Atualmente trabalhando com Segurança Ofensiva na OSTEC Business Security
+- 🔭 Atualmente trabalhando com Gestão de Vulnerabilidades e Segurança Ofensiva na OSTEC Business Security
 - 🌱 Estudante de Ciência da Computação pela Unisul
 - 😎 Adepto fiel à filosofia Open Source
 - 💬 Apaixonado por Segurança da Informação
@@ -11,7 +11,7 @@
   - Pwn everyone, hack everything
 
 - ⚡ Fato legal sobre mim: Comecei a programar com apenas 10 anos de idade e desde então nunca mais parei. 
-- 📫 Contato: luiz.melo@ostec.com.br
+- 📫 Contato profissional: luiz.melo@ostec.com.br
 
 ## Github Stats
 <a href="https://github.com/luizmlo/luizmlo">
