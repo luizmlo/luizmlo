@@ -48,15 +48,14 @@
 ![](https://img.shields.io/badge/Sec-SQLi-informational?style=flat&logo=sqlite&logoColor=white&color=6700cd)
 ![](https://img.shields.io/badge/Sec-XSS-informational?style=flat&logo=javascript&logoColor=white&color=6700cd)
 
-# Portfolio ⚠ WIP ⚠
-## Indice
-  - [Desenvolvimento](#Desenvolvimento)
-    - [XYO Coin Bot](#xyocoin)
-    - [Smart Tron](#smarttron)
-    - [EasyLSTM](#EasyLSTM)
-  - [Segurança](#Segurança)
-    - [CTF's](#ctfs)
-    - [Unisul XSS Demo](#unisul)
+# Portfolio
+- [Desenvolvimento](#Desenvolvimento)
+  - [XYO Coin Bot](#xyocoin)
+  - [Smart Tron](#smarttron)
+  - [EasyLSTM](#EasyLSTM)
+- [Segurança](#Segurança)
+  - [Botnet](#a3_botnet)
+  - [CTF's](#ctfs)
 
 <a name="Desenvolvimento"></a>
 ## Desenvolvimento
@@ -104,9 +103,11 @@
 
 <a name="Segurança"></a>
 ## Segurança
+<a name="a3_botnet"></a>
+  ### [Websockets Botnet](https://github.com/luizmlo/a3_botnet)
+   - #### Repositório em que construo do zero uma botnet funcional com python e websockets como desafio pessoal para aprender networking e programação assíncrona que será apresentada no meu trabalho de conclusão da matéria de Ambientes Computacionais e Segurança na Unisul
+
 <a name="ctfs"></a>
   ### [CTF Writeups](https://github.com/luizmlo/ctf-writeups)
    - #### Repositório em que documento minhas participações em eventos de Capture The Flag
-
-<a name="unisul"></a>
 
