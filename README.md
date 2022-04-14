@@ -21,8 +21,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmlo&hide=html,jupyter%20notebook&theme=tokyonight&langs_count=3" />
 </a>
 
-<a href="https://github.com/luizmlo/ctf-writeups">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizmlo&repo=ctf-writeups&theme=tokyonight" />
+<a href="https://github.com/luizmlo/a3_botnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizmlo&a3_botnet&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/luizmlo/easylstm">
