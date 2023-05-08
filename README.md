@@ -99,7 +99,6 @@
   predictions = model.predict(X_test)
   ```
   ![Demo](https://i.imgur.com/ollIvqY.png)
-  ![Estrutura de uma LSTM](https://www.monolitonimbus.com.br/wp-content/uploads/2018/04/LSTM-chain.png)
 
 <a name="Segurança"></a>
 ## Segurança
