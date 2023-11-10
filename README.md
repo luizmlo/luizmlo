@@ -45,8 +45,6 @@
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=6700cd)
 ![](https://img.shields.io/badge/Sec-Metasploit-informational?style=flat&logo=monster&logoColor=white&color=6700cd)
 ![](https://img.shields.io/badge/Sec-Burp%20Suite-informational?style=flat&logo=webpack&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Sec-SQLi-informational?style=flat&logo=sqlite&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Sec-XSS-informational?style=flat&logo=javascript&logoColor=white&color=6700cd)
 
 # Portfolio
 - [Desenvolvimento](#Desenvolvimento)
