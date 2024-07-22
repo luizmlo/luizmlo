@@ -52,7 +52,6 @@
    - #### Este projeto é um Bot usando Computer Vision e Automação de Android, feito em Python;
    - #### O XYO Coin é um aplicativo de celular em que você consegue "minerar" a criptomoeda XYO (ERC-20) vendendo dados de geolocalização e sensores, onde a ideia principal é sair andando ou dirigindo por aí enquanto você recebe suas recompensas pela geomineração. Caso você queira receber as recompensas sem se locomover, é necessária a solução de captchas em forma de minigames;
    - #### Neste projeto foram utilizadas ferramentas como OpenCV, Scrcpy, MongoDB e Google Tesseract;
-   - #### Por enquanto o repositório do projeto está privado pois pretendo monetizar a solução mais pra frente;
    ![Demo](https://i.imgur.com/2yWwiml.gif)
    ![Integração e Analytics com MongoDB Atlas](https://i.imgur.com/BZh7173.png)
  
