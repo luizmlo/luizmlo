@@ -1,17 +1,15 @@
 ## Olá Github! 👋
 
-- 🔭 Atualmente trabalhando com Gestão de Vulnerabilidades e Segurança Ofensiva na OSTEC Business Security
+- 🔭 Atualmente trabalhando com Algotrading e Machine Learning
 - 🌱 Estudante de Ciência da Computação pela Unisul
 - 😎 Adepto fiel à filosofia Open Source
 - 💬 Apaixonado por Segurança da Informação
-  - Network Security & Infrastructure
   - Web Application Exploitation
   - Embeded Devices & IoT Exploitation
   - Reverse Engineering
   - Pwn everyone, hack everything
 
 - ⚡ Fato legal sobre mim: Comecei a programar com apenas 10 anos de idade e desde então nunca mais parei. 
-- 📫 Contato profissional: luiz.melo@ostec.com.br
 
 ## Github Stats
 <a href="https://github.com/luizmlo/luizmlo">
@@ -68,23 +66,21 @@
  
  <a name="smarttron"></a>
    #
-   ### Smart Tron, o Robô Inteligente
+   ### Smart Tron
    - #### Este foi um projeto desenvolvido para um cliente pela plataforma Fiverr;
-   - #### O Smart Tron é uma aplicação GUI multiplataforma (Windows, OSX e Linux) desenvolvida puramente com Python, usando ferramentas como Pandas, KivyMD, TA-Lib e Websockets;
-   - #### O projeto é um robô automatizado de operações na corretora de valores [IqOption](https://iqoption.com/), onde são usadas diferentes técnicas para analisar os dados atuais de mercado e tentar prever seus possíveis movimentos no futuro, operando desde pares de moedas no mercado Forex, até em mercados de Ações, CFD's e Criptomoedas;
-   - #### Este projeto teve também integração com banco de dados na Cloud, usando os Clusters do MongoDB, incluindo um dashboard em tempo real de Analytics;
-   - #### O propósito do aplicativo é de ser revendido online como Infoproduto, então desenvolvi do zero um sistema de criação e validação de licenças totalmente na nuvem e com criptografia, além de todo o código do programa ser obfuscado usando a ferramenta [Pyarmor](https://github.com/dashingsoft/pyarmor)
+   - #### O Smart Tron é uma aplicação GUI multiplataforma (Windows, OSX e Linux) desenvolvida com Python e usando ferramentas como Pandas, KivyMD, TA-Lib e Websockets;
+   - #### O projeto é um robô de operações na corretora de valores [IqOption](https://iqoption.com/), onde são usadas diferentes maneiras para analisar dados de mercado e tentar prever seus possíveis movimentos no futuro, operando no mercado Forex, Ações, CFD's e Criptomoedas;
+   - #### Este projeto teve também integração com Cloud, incluindo um dashboard em tempo real de Analytics, plataformas de gerenciamento de clientes e otimização;
+   - #### O app foi vendido online como Infoproduto, foi necessário um sistema de criação e validação de licenças em nuvem;(https://github.com/dashingsoft/pyarmor)
    ![Tela de Login](https://i.imgur.com/cl0nXR7.png)
    ![Analytics](https://i.imgur.com/fdb1i8m.png)
 
  <a name="EasyLSTM"></a>
   #
   ### [EasyLSTM](https://github.com/luizmlo/easylstm)
-  - #### Esta é uma biblioteca em Python desenvolvida por mim para facilitar a criação e uso de Redes Neurais do tipo LSTM;
-  - #### A ideia por trás deste projeto veio durante a época em que eu estava estudando pesado Machine Learning, em específico a área de Deep Learning e Redes Neurais, com foco em aplicação em dados de mercado e ações;
-  - #### As redes LSTM podem ser extremamente precisas no processamento de dados do tipo Time Series, que podem ir desde Processamento de Linguagem Natural (NLP) até em prever movimentos futuros no preço do Bitcoin, por exemplo;
-  - #### A arquitetura de uma rede LSTM é bastante complexa e o formato dos dados de input precisam ser fornecidos como uma "Janela no tempo", o que pode causar uma grande dor de cabeça para quem está começando com Redes Neurais e Machine Learning em um todo;
-  - #### Com a minha biblioteca, é possível ir do import ao uso efetivo do Modelo em menos de 10 linhas de código;
+  - #### Esta é uma biblioteca em Python desenvolvida para facilitar a criação e uso de Redes Neurais do tipo LSTM;
+  - #### Devido ao funcionamento interno de redes LSTM, são necessários pré processamentos nos dados que podem dificultar seu uso para iniciantes;
+  - #### Com esse projeto, é possível ir do import ao uso efetivo do Modelo em menos de 10 linhas de código;
   - #### A descrição, instruções para uso e exemplos podem ser encontrados em Inglês [aqui](https://github.com/luizmlo/easylstm);
   ## 7 Linhas de código, desde o import até a previsão de valores futuros
   ```python
@@ -102,9 +98,5 @@
 ## Segurança
 <a name="a3_botnet"></a>
   ### [Websockets Botnet](https://github.com/luizmlo/a3_botnet)
-   - #### Repositório em que construo do zero uma botnet funcional com python e websockets como desafio pessoal para aprender networking e programação assíncrona que será apresentada no meu trabalho de conclusão da matéria de Ambientes Computacionais e Segurança na Unisul
-
-<a name="ctfs"></a>
-  ### [CTF Writeups](https://github.com/luizmlo/ctf-writeups)
-   - #### Repositório em que documento minhas participações em eventos de Capture The Flag
+   - #### Botnet web incluindo servidor de C2 e agentes, feita com python e js para um trabalho da faculdade;
 
