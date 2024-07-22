@@ -1,15 +1,7 @@
 ## Olá Github! 👋
 
 - 🔭 Atualmente trabalhando com Algotrading e Machine Learning
-- 🌱 Estudante de Ciência da Computação pela Unisul
-- 😎 Adepto fiel à filosofia Open Source
-- 💬 Apaixonado por Segurança da Informação
-  - Web Application Exploitation
-  - Embeded Devices & IoT Exploitation
-  - Reverse Engineering
-  - Pwn everyone, hack everything
-
-- ⚡ Fato legal sobre mim: Comecei a programar com apenas 10 anos de idade e desde então nunca mais parei. 
+- 😎 Adepto fiel à filosofia Open Source, pwn everyone, hack everything
 
 ## Github Stats
 <a href="https://github.com/luizmlo/luizmlo">
