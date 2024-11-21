@@ -1,6 +1,9 @@
 ## Olá Github! 👋
 
-- 🔭 Atualmente trabalhando com Algotrading e Machine Learning
+- 🐍 Dev Python e Red Teamer
+- 🔭 Atualmente trabalhando com Machine Learning e Automação
+- 🤖 Apaixonado em criar bots/agentes autônomos, seja pra data mining ou automatizar games
+- ⚡ Robótica, Eletrônica e Hardware Hacking
 - 😎 Adepto fiel à filosofia Open Source, pwn everyone, hack everything
 
 ## Github Stats
