@@ -8,9 +8,6 @@
 
 ## Github Stats
 <a href="https://github.com/luizmlo/luizmlo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizmlo&show_icons=true&line_height=27&count_private=true&theme=tokyonight&include_all_commits=true"/>
-</a>
-<a href="https://github.com/luizmlo/luizmlo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmlo&hide=html,jupyter%20notebook&theme=tokyonight&langs_count=3" />
 </a>
 
