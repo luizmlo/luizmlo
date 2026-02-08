@@ -1,93 +1,53 @@
-## Olá Github! 👋
+# Hi, I'm Luiz Felipe Melo
 
-- 🐍 Dev Python e Red Teamer
-- 🔭 Atualmente trabalhando com Machine Learning e Automação
-- 🤖 Apaixonado em criar bots/agentes autônomos, seja pra data mining ou automatizar games
-- ⚡ Robótica, Eletrônica e Hardware Hacking
-- 😎 Adepto fiel à filosofia Open Source, pwn everyone, hack everything
+**BSc in Computer Science** · Unisul (2022–2026) · 🐍 Python · 🤖 AI/ML · 🔒 Cybersecurity
 
-## Github Stats
-<a href="https://github.com/luizmlo/luizmlo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmlo&hide=html,jupyter%20notebook&theme=tokyonight&langs_count=3" />
-</a>
+I build software that automates, scales, and thinks. **8+ years** in development, **4+ years** in cybersecurity, **30+ projects** delivered via Fiverr and referrals.
 
-<a href="https://github.com/luizmlo/a3_botnet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizmlo&repo=a3_botnet&theme=tokyonight" />
-</a>
+---
 
-<a href="https://github.com/luizmlo/easylstm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizmlo&repo=easylstm&theme=tokyonight" />
-</a>
+## 🔥 What I Do
 
+| Focus | Technologies |
+|-------|---------------|
+| **AI/ML** | PyTorch, Keras, LangChain, ollama · LLM pipelines, Computer Vision |
+| **Automation** | Python, FastAPI, Streamlit, n8n · AI agents, web scraping |
+| **Security** | Pentests, SOC, SIEM/XDR, WAF · Vulnerability Management |
 
-## Tecnologias e Ferramentas
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Code-C%2B%2b-informational?style=flat&logo=cplusplus&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Tools-Matplotlib-informational?style=flat&logo=plotly&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Sec-Metasploit-informational?style=flat&logo=monster&logoColor=white&color=6700cd)
-![](https://img.shields.io/badge/Sec-Burp%20Suite-informational?style=flat&logo=webpack&logoColor=white&color=6700cd)
+---
 
-# Portfolio WIP
-- [Desenvolvimento](#Desenvolvimento)
-  - [XYO Coin Bot](#xyocoin)
-  - [Smart Tron](#smarttron)
-  - [EasyLSTM](#EasyLSTM)
-- [Segurança](#Segurança)
-  - [Botnet](#a3_botnet)
-  - [CTF's](#ctfs)
+## 🌟 Highlights
 
-<a name="Desenvolvimento"></a>
-## Desenvolvimento
-<a name="xyocoin"></a>
-   ### XYO Mining Bot
-   - #### Este projeto é um Bot usando Computer Vision e Automação de Android, feito em Python;
-   - #### O XYO Coin é um aplicativo de celular em que você consegue "minerar" a criptomoeda XYO (ERC-20) vendendo dados de geolocalização e sensores, onde a ideia principal é sair andando ou dirigindo por aí enquanto você recebe suas recompensas pela geomineração. Caso você queira receber as recompensas sem se locomover, é necessária a solução de captchas em forma de minigames;
-   - #### Neste projeto foram utilizadas ferramentas como OpenCV, Scrcpy, MongoDB e Google Tesseract;
-   ![Demo](https://i.imgur.com/2yWwiml.gif)
-   ![Integração e Analytics com MongoDB Atlas](https://i.imgur.com/BZh7173.png)
- 
- <a name="smarttron"></a>
-   #
-   ### Smart Tron
-   - #### Este foi um projeto desenvolvido para um cliente pela plataforma Fiverr;
-   - #### O Smart Tron é uma aplicação GUI multiplataforma (Windows, OSX e Linux) desenvolvida com Python e usando ferramentas como Pandas, KivyMD, TA-Lib e Websockets;
-   - #### O projeto é um robô de operações na corretora de valores [IqOption](https://iqoption.com/), onde são usadas diferentes maneiras para analisar dados de mercado e tentar prever seus possíveis movimentos no futuro, operando no mercado Forex, Ações, CFD's e Criptomoedas;
-   - #### Este projeto teve também integração com Cloud, incluindo um dashboard em tempo real de Analytics, plataformas de gerenciamento de clientes e otimização;
-   - #### O app foi vendido online como Infoproduto, foi necessário um sistema de criação e validação de licenças em nuvem;(https://github.com/dashingsoft/pyarmor)
-   ![Tela de Login](https://i.imgur.com/cl0nXR7.png)
-   ![Analytics](https://i.imgur.com/fdb1i8m.png)
+- **YouTube Content Agent** — End-to-end pipeline: Ideas → Prompts → Images → RPA CapCut → Upload · **~3.5M views, 5k+ subscribers**
+- **clipa-ai** — AI-driven SaaS for content creation (OpenAI, Replicate, Auth0, Mercado Pago, Docker)
+- **Trading Bots** — Binance, IQ Option, MT5 · LLM pipelines, XGBoost, neural networks · projects sold as digital products
+- **Cybersecurity Analyst** @ 3MCyber — Pentests, consulting, internal tooling
+- **CTF Competitions** — Campus Party Brasília 2019: 1st Place CTF RNP, 2nd Place CTF Decred
+- **Speaker** — Unisul Tubarão: "Exploits in Web Applications and APIs" (2023) · "AI in practice, self-hosting LLMs" (2025)
 
- <a name="EasyLSTM"></a>
-  #
-  ### [EasyLSTM](https://github.com/luizmlo/easylstm)
-  - #### Esta é uma biblioteca em Python desenvolvida para facilitar a criação e uso de Redes Neurais do tipo LSTM;
-  - #### Devido ao funcionamento interno de redes LSTM, são necessários pré processamentos nos dados que podem dificultar seu uso para iniciantes;
-  - #### Com esse projeto, é possível ir do import ao uso efetivo do Modelo em menos de 10 linhas de código;
-  - #### A descrição, instruções para uso e exemplos podem ser encontrados em Inglês [aqui](https://github.com/luizmlo/easylstm);
-  ## 7 Linhas de código, desde o import até a previsão de valores futuros
-  ```python
-  from easy_lstm import EasyLSTM
-  import pandas
-  dataset = pandas.read_csv('./path_to_dataset.csv')
-  dataset['y'] = dataset['feature'].shift(-1, axis=0)[:-1] #Turning a time series into a supervised learning problem
-  model, X_train, y_train, X_test, y_test = EasyLSTM(data=dataset, n_steps=4).do_magic()
-  model.fit(X_train, y_train, epochs=20)
-  predictions = model.predict(X_test)
-  ```
-  ![Demo](https://i.imgur.com/ollIvqY.png)
+---
 
-<a name="Segurança"></a>
-## Segurança
-<a name="a3_botnet"></a>
-  ### [Websockets Botnet](https://github.com/luizmlo/a3_botnet)
-   - #### Botnet web incluindo servidor de C2 e agentes, feita com python e js para um trabalho da faculdade;
+## 🛠️ Stack
 
+```
+Languages:  Python · Go · Java · JavaScript · C/C++
+AI/ML:      PyTorch · Keras · LangChain · ollama
+Frameworks: FastAPI · Streamlit · Selenium · OpenCV · Flask
+Infra:      Linux · Docker · Wazuh · Kibana
+```
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** [luizf.mlobrc@gmail.com](mailto:luizf.mlobrc@gmail.com)
+- **LinkedIn:** [luiz-felipe-melo-067722213](https://linkedin.com/in/luiz-felipe-melo-067722213)
+- **Languages:** Portuguese (Native) · English (Fluent) · Spanish (Basic)
+
+*Routine meetings and briefings in English with international clients.*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luizmlo&style=flat-square&color=2563eb" alt="Profile views" />
+</p>
