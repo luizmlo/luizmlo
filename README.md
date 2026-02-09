@@ -44,8 +44,6 @@ Infra:      Linux · Docker · Wazuh · Kibana
 - **LinkedIn:** [luiz-felipe-melo-067722213](https://linkedin.com/in/luiz-felipe-melo-067722213)
 - **Languages:** Portuguese (Native) · English (Fluent) · Spanish (Basic)
 
-*Routine meetings and briefings in English with international clients.*
-
 ---
 
 <p align="center">
