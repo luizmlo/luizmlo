@@ -2,7 +2,8 @@
 
 **BSc in Computer Science** · Unisul (2022–2026) · 🐍 Python · 🤖 AI/ML · 🔒 Cybersecurity
 
-I build software that automates, scales, and thinks. **8+ years** in development, **4+ years** in cybersecurity, **30+ projects** delivered via Fiverr and referrals.
+Cofounder & Head of Cybersecurity @ Codara  
+**8+ years** in development, **4+ years** in cybersecurity, **30+ projects** delivered via referrals.
 
 ---
 
@@ -23,7 +24,7 @@ I build software that automates, scales, and thinks. **8+ years** in development
 - **Trading Bots** — Binance, IQ Option, MT5 · LLM pipelines, XGBoost, neural networks · projects sold as digital products
 - **Cybersecurity Analyst** @ 3MCyber — Pentests, consulting, internal tooling
 - **CTF Competitions** — Campus Party Brasília 2019: 1st Place CTF RNP, 2nd Place CTF Decred
-- **Speaker** — Unisul Tubarão: "Exploits in Web Applications and APIs" (2023) · "AI in practice, self-hosting LLMs" (2025)
+- **Speaker** — Unisul Tubarão: "Exploits in Web Applications and APIs" (2023) · "AI in practice, self-hosting LLMs" (2025) · "Bitcoin: Myths, Blockchain and True Descentralization" (2026) 
 
 ---
 
