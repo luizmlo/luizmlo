@@ -2,7 +2,6 @@
 
 **BSc in Computer Science** · Unisul (2022–2026) · 🐍 Python · 🤖 AI/ML · 🔒 Cybersecurity
 
-Cofounder & Head of Cybersecurity @ Codara  
 **8+ years** in development, **4+ years** in cybersecurity, **30+ projects** delivered via referrals.
 
 ---
