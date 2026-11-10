@@ -23,7 +23,7 @@
 - **Trading Bots** — Binance, IQ Option, MT5 · LLM pipelines, XGBoost, neural networks · projects sold as digital products
 - **Cybersecurity Analyst** @ 3MCyber — Pentests, consulting, internal tooling
 - **CTF Competitions** — Campus Party Brasília 2019: 1st Place CTF RNP, 2nd Place CTF Decred
-- **Speaker** — Unisul Tubarão: "Exploits in Web Applications and APIs" (2023) · "Hands-On AI, self-hosting LLMs" (2025) · "Bitcoin: Myths, Blockchain and True Descentralization" (2026) 
+- **Speaker** — Unisul Tubarão: "Exploits in Web Applications and APIs" (2023) · "Hands-On AI, self-hosting LLMs" (2025) · "Bitcoin: Myths, Blockchain and True Descentralization" (2026) · "End of The World by Rogue AI: Where are we on the timeline?" (2026) 
 
 ---
 
