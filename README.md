@@ -1,51 +1,74 @@
-# Hi, I'm Luiz Felipe Melo
+## Luiz Felipe Melo
 
-**BSc in Computer Science** · Unisul (2022–2026) · 🐍 Python · 🤖 AI/ML · 🔒 Cybersecurity
+Security engineer and ML researcher based in Tubarão, Brazil. I work at the intersection of offensive security and
+machine learning: how models fail, how to look inside them, and how to fix them. I have about 8 years of experience
+in software development and 4 in cybersecurity.
 
-**8+ years** in development, **4+ years** in cybersecurity, **30+ projects** delivered via referrals.
+[ORCID](https://orcid.org/0009-0007-5134-9914) · [LinkedIn](https://www.linkedin.com/in/luiz-felipe-melo-067722213)
 
----
+### Research
 
-## 🔥 What I Do
+**Agentic weight editing** (2026, preprint forthcoming).
+- **Question:** can an AI agent repair a defect in a language model by editing its weights directly, without training?
+- **What I did:** Claude agents read the weights of Qwen3.5-0.8B and wrote a few rank-1 edits that stop its endless
+  reasoning loops. The unedited model solves 16% of a locked GSM8K test; the agents' edits solve 62–68%.
+- **Compared against:** a published hand-made edit, which matches that accuracy only when given 2–3× more tokens;
+  LoRA fine-tuning, which falls well short; and simple decoding baselines, which come close. Switching thinking off
+  is cheaper still.
+- **Method:** every prediction was pre-registered and the failed ones are reported; the full lab notebook will be
+  released with the preprint.
 
-| Focus | Technologies |
-|-------|---------------|
-| **AI/ML** | PyTorch, Keras, LangChain, ollama · LLM pipelines, Computer Vision |
-| **Automation** | Python, FastAPI, Streamlit, n8n · AI agents, web scraping |
-| **Security** | Pentests, SOC, SIEM/XDR, WAF · Vulnerability Management |
+Interests: mechanistic interpretability, weight-space editing, LLM agents, AI security.
 
----
+### Security
 
-## 🌟 Highlights
+- **Vulnerability management at scale.** At OSTEC Business Security I built and led a continuous
+  vulnerability-management service from scratch. It monitored 15,000+ assets daily for 25+ corporate clients in
+  industry, retail and critical infrastructure (Tenable Nessus and in-house Python automation).
+- **Penetration testing.** I have tested web applications, APIs and networks for large companies in retail and
+  construction, including a publicly listed multinational, from kick-off to executive report. Clients are under NDA.
+- **Attack-surface mapping.** I built Scandara, an event-driven scanning platform (FastAPI, Arq, PostgreSQL, Redis)
+  that processes about 50,000 URLs a day.
+- **CTF.** At Campus Party Brasília 2019 I placed 1st in the RNP CTF and 2nd in the Decred CTF.
 
-- **YouTube Content Agent** — End-to-end pipeline: Ideas → Prompts → Images → RPA CapCut → Upload · **~3.5M views, 5k+ subscribers**
-- **clipa-ai** — AI-driven SaaS for content creation (OpenAI, Replicate, Auth0, Mercado Pago, Docker)
-- **Trading Bots** — Binance, IQ Option, MT5 · LLM pipelines, XGBoost, neural networks · projects sold as digital products
-- **Cybersecurity Analyst** @ 3MCyber — Pentests, consulting, internal tooling
-- **CTF Competitions** — Campus Party Brasília 2019: 1st Place CTF RNP, 2nd Place CTF Decred
-- **Speaker** — Unisul Tubarão: "Exploits in Web Applications and APIs" (2023) · "Hands-On AI, self-hosting LLMs" (2025) · "Bitcoin: Myths, Blockchain and True Descentralization" (2026) · "End of The World by Rogue AI: Where are we on the timeline?" (2026) 
+### Talks
 
----
+All talks were given at Universidade do Sul de Santa Catarina (Unisul), Tubarão.
 
-## 🛠️ Stack
+| Year | Talk |
+|---|---|
+| 2026 | *End of the World by AI: Where Are We on the Timeline?* |
+| 2026 | *Real Bitcoin: Myths, Blockchain and Decentralization* |
+| 2025 | *Practical AI: Self-hosting LLMs* (workshop) |
+| 2023 | *Exploits in Web Applications and APIs* (live red-team demo, OWASP Top 10) |
+
+### Now
+
+- **Scale Tech:** software developer and head of support. I contribute to Scale One, a CRM in which Claude agents run
+  WhatsApp sales conversations, and I build the support team's tooling, including an episode classifier running in
+  shadow mode.
+- **Codara:** security and platform engineer.
+- **DATUS** (Unisul's IT student association): events director. So far I have organised two hackathons, an AI
+  workshop and technical talks.
+- **Unisul:** BSc in Computer Science, expected 2027.
+
+### Selected open source
+
+| Project | Description |
+|---|---|
+| [a3_botnet](https://github.com/luizmlo/a3_botnet) | Botnet research prototype in Python (asyncio, WebSockets) |
+| [dit](https://github.com/luizmlo/dit) | HTML page, form and field classifier (logistic regression + CRF), in Go |
+| [EasyLSTM](https://github.com/luizmlo/EasyLSTM) | Data shaping, training and inference for LSTM networks in Keras |
+| [aim-ml](https://github.com/luizmlo/aim-ml) | Training neural networks from screenshots |
+| [aic8800d80-kernel7](https://github.com/luizmlo/aic8800d80-kernel7) | AIC8800D80 USB Wi-Fi driver patched for Linux kernel 7.0 |
+
+### Tools
 
 ```
-Languages:  Python · Go · Java · JavaScript · C/C++
-AI/ML:      PyTorch · Keras · LangChain · ollama
-Frameworks: FastAPI · Streamlit · Selenium · OpenCV · Flask
-Infra:      Linux · Docker · Wazuh · Kibana
+ML        PyTorch · transformers · llama.cpp · Keras · scikit-learn
+Security  Burp Suite · Nmap · Metasploit · Tenable Nessus · Wazuh
+Code      Python · Go · C/C++ · JavaScript · SQL
+Systems   Linux · Docker · PostgreSQL · Redis · FastAPI
 ```
 
----
-
-## 📫 Get in Touch
-
-- **Email:** [luizf.mlobrc@gmail.com](mailto:luizf.mlobrc@gmail.com)
-- **LinkedIn:** [luiz-felipe-melo-067722213](https://linkedin.com/in/luiz-felipe-melo-067722213)
-- **Languages:** Portuguese (Native) · English (Fluent) · Spanish (Basic)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luizmlo&style=flat-square&color=2563eb" alt="Profile views" />
-</p>
+Languages: Portuguese (native), English (fluent), Spanish (basic).
