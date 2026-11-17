@@ -1,7 +1,6 @@
 ## Luiz Felipe Melo
 
-Security engineer and ML researcher based in Tubarão, Brazil. I work at the intersection of offensive security and
-machine learning: how models fail, how to look inside them, and how to fix them. I have about 8 years of experience
+Security engineer and ML researcher based in Tubarão, Brazil. I'm currently working on AI Safety and Offensive Security Capabilities. I have about 8 years of experience
 in software development and 4 in cybersecurity.
 
 [ORCID](https://orcid.org/0009-0007-5134-9914) · [LinkedIn](https://www.linkedin.com/in/luiz-felipe-melo-067722213)
@@ -20,7 +19,7 @@ in software development and 4 in cybersecurity.
 **Agentic weight editing** (2026) · [pre-paper, DOI 10.5281/zenodo.24208535](https://doi.org/10.5281/zenodo.24208535) ·
 [repository](https://github.com/luizmlo/agentic-weight-editing)
 - **Question:** can an AI agent repair a defect in a language model by editing its weights directly, without training?
-- **What I did:** Claude agents read the weights of Qwen3.5-0.8B and wrote at most four rank-1 edits that stop its
+- **What I did:** Agents read the weights of Qwen3.5-0.8B and wrote at most four rank-1 edits that stop its
   endless reasoning loops, on a single gaming GPU. On locked GSM8K test problems, accuracy went from 15.5% to
   61.5–68%, and six agent runs of the same protocol all repaired the defect.
 - **Compared against:** the edit that GPT-6 Astra wrote in MIT CSAIL's *Sparks of Weight-Space Programming*, which
@@ -55,9 +54,8 @@ All talks were given at Universidade do Sul de Santa Catarina (Unisul), Tubarão
 
 ### Now
 
-- **Scale Tech:** software developer and head of support. I contribute to Scale One, a CRM in which Claude agents run
-  WhatsApp sales conversations, and I build the support team's tooling, including an episode classifier running in
-  shadow mode.
+- **Scale Tech:** software developer and head of support. I contribute to Scale One, a CRM in which AI agents run
+  WhatsApp sales conversations, and I build the support team's tooling, including an episode classifier using a small decision model (laya)  
 - **Codara:** security and platform engineer.
 - **DATUS** (Unisul's IT student association): events director. So far I have organised two hackathons, an AI
   workshop and technical talks.
